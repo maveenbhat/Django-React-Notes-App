@@ -47,10 +47,3 @@ python manage.py runserver
 
 #
 
-### App Preview :
-
-<div align="center">
-<img width="50%" src="https://www.linkpicture.com/q/Notes.png"/>
-</div>
-
-#
