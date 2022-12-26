@@ -14,7 +14,7 @@ git clone https://github.com/maveenbhat/Django-React-Notes-App.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd Django-React-NotesApp
+cd Django-React-Notes-App
 
 ```
 
